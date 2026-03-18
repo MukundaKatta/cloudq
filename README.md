@@ -88,6 +88,3 @@ src/
 └── types/            # TypeScript type definitions
 ```
 
-## License
-
-MIT
